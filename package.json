@@ -1,0 +1,19 @@
+{
+  "name": "game-scorer",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "tests"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "^3.5.3"
+  },
+  "scripts": {
+    "test": "mocha \"./test/**/*.js\""
+  },
+  "author": "",
+  "license": "ISC"
+}
