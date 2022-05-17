@@ -7,5 +7,5 @@ Category = "Ones" / "Twos" / "Threes" / "Fours" / "Fives" / "Sixes" / "Full hous
 Dice = CommaSeparatedDie CommaSeparatedDie CommaSeparatedDie CommaSeparatedDie CommaSeparatedDie
 CommaSeparatedDie = Die Separator
 
-Die = [0-9]
+Die = [1-6]
 Separator = ", " / "," / ""
